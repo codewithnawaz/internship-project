@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  background-color: rgb(109, 165, 184);
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.card-title{
+  color:rgb(0, 0, 0);
+}
+.card-text{
+  color:rgb(135, 135, 150);
+}
+.container{
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+}
